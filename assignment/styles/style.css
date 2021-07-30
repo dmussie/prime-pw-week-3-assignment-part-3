@@ -1,1 +1,13 @@
 /* give your assignment a fun background color */
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlyhL3hUbcNWEMGQy5VeElES4eXAdQC1ARZg&usqp=CAU);
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+ol {
+  color: white;
+}
